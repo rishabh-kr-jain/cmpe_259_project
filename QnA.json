@@ -1,0 +1,126 @@
+[
+    {
+        "question": "What is the primary function of the OPERA Cloud Help system?",
+        "answer": "The OPERA Cloud Help system serves as a comprehensive guide for users navigating the OPERA Cloud application. It provides detailed information and support for functionalities such as client relations, bookings, front desk management, inventory, financials, channel management, and reporting. The help system is structured to enhance user understanding and operational efficiency within the platform."
+    },
+    {
+        "question": "What are the capabilities of the report module in OPERA Cloud?",
+        "answer": "The report module in OPERA Cloud is designed to offer extensive reporting capabilities, allowing users to access, preview, print, email, and download various reports. It facilitates effective management of report groups and tasks, supports multi-property reporting, and enables scheduled and batch report generation, which are essential for operational analysis and decision-making."
+    },
+    {
+        "question": "How can email-addressable printers be configured in OPERA Cloud?",
+        "answer": "Email-addressable printers in OPERA Cloud can be configured through the printer settings under the administration menu. Users can set up printers to receive documents directly via email, which is particularly useful for automating printing tasks such as reports and receipts across different departments or properties."
+    },
+    {
+        "question": "What is involved in configuring printers in OPERA Cloud?",
+        "answer": "Configuring printers in OPERA Cloud involves accessing the printer configuration settings from the administration interface, selecting printers, and specifying attributes such as location, output type, and associated email addresses. This setup allows for tailored printer configurations that align with specific business needs and operational demands."
+    },
+    {
+        "question": "What are the prerequisites for setting up reservation alerts in OPERA Cloud?",
+        "answer": "Setting up reservation alerts in OPERA Cloud requires configuring alert types, such as manual alerts for individual reservations or automatic alerts for all bookings that meet specific criteria. This setup helps enhance guest management by ensuring that important alerts are timely and accurately delivered."
+    },
+    {
+        "question": "How can scheduled reports be managed in OPERA Cloud?",
+        "answer": "Scheduled reports in OPERA Cloud are managed through the Reports Scheduler feature, which allows users to set up reports to auto-generate at specified intervals. This feature supports managing delivery methods, modifying report parameters, and cancelling scheduled reports, providing flexibility and control over report generation."
+    },
+    {
+        "question": "What are the steps to generate a standard report in OPERA Cloud?",
+        "answer": "Generating a standard report in OPERA Cloud involves selecting the report from the Manage Reports section, setting report parameters such as date range and filters, and choosing the delivery method. This process is designed to be user-friendly, allowing for quick and efficient report generation."
+    },
+    {
+        "question": "Describe the process for editing scheduled reports in OPERA Cloud.",
+        "answer": "Editing a scheduled report in OPERA Cloud involves navigating to the Manage Scheduled Reports section, selecting the report, modifying its parameters or scheduling details, and saving the changes. This functionality ensures that users can update reports to reflect changing business needs or information requirements."
+    },
+    {
+        "question": "What features are available for managing reports in OPERA Cloud?",
+        "answer": "Features for managing reports in OPERA Cloud include generating reports, scheduling reports, and managing shift reports along with the ability to configure scheduled reports to auto-generate periodically."
+    },
+    {
+        "question": "How are report access permissions controlled in OPERA Cloud?",
+        "answer": "Access to reports is controlled through assigning report group tasks to roles, which restricts access based on user roles."
+    },
+    {
+        "question": "What options are available for report delivery in OPERA Cloud?",
+        "answer": "Reports can be delivered via email, printed directly, or downloaded in various formats such as PDF or Excel."
+    },
+    {
+        "question": "How can one configure shift reports in OPERA Cloud?",
+        "answer": "Shift reports can be configured by setting up multiple reports to generate in a batch process, managing scheduled reports, and selecting specific properties from a hub location."
+    },
+    {
+        "question": "What is the function of the stationery editor in OPERA Cloud?",
+        "answer": "The stationery editor in OPERA Cloud is used to manage stationery templates for each stationery report group."
+    },
+    {
+        "question": "How does one access reporting and analytics features in OPERA Cloud?",
+        "answer": "Access to reporting and analytics features is provided through the reports module, where users can generate and manage reports and analyze data across multiple properties."
+    },
+    {
+        "question": "What is the process for configuring printers for alert printing in OPERA Cloud?",
+        "answer": "Printers for alert printing can be configured by selecting the printer configuration under the administration menu, choosing the printer, and enabling the Use Alert Printing option."
+    },
+    {
+        "question": "What types of alerts can be configured in OPERA Cloud?",
+        "answer": "Types of alerts include reservation alerts, global alerts that generate automatically, and welcome offer alerts."
+    },
+    {
+        "question": "How are printers added and configured in OPERA Cloud?",
+        "answer": "Printers are added and configured by accessing the printer configuration from the administration menu, adding a new printer, and filling in details such as location, output type, and printer email address."
+    },
+    {
+        "question": "What is the procedure for deleting printers in OPERA Cloud?",
+        "answer": "Deleting a printer involves selecting the printer from the printer configuration menu, using the actions menu to select delete, and confirming the deletion."
+    },
+    {
+        "question": "Describe the process of copying printer configurations in OPERA Cloud.",
+        "answer": "Copying printer configurations can be done by selecting a printer, using the copy function from the actions menu, and modifying the details in the new printer configuration screen."
+    },
+    {
+        "question": "What guidelines are provided for naming printers in OPERA Cloud? ",
+        "answer": "Printers should be named following a convention that indicates their physical location to help users identify them correctly."
+    },
+    {
+        "question": "What is the purpose of setting up email-addressable printers in OPERA Cloud?",
+        "answer": "Email-addressable printers are set up to directly receive and print PDFs emailed from the system, facilitating automated printing tasks."
+    },
+    {
+        "question": "How does OPERA Cloud handle scheduled reporting?",
+        "answer": "Scheduled reporting is handled through the Report Scheduler which allows reports to auto-generate at specified intervals and frequencies based on set parameters."
+    },
+    {
+        "question": "What are the steps to schedule a standard report in OPERA Cloud?",
+        "answer": "Scheduling a standard report involves selecting the report, defining the date range, selecting filters, and choosing delivery methods like email or printer."
+    },
+    {
+        "question": "Explain the role of SFTP in delivering reports in OPERA Cloud.",
+        "answer": "SFTP (Secure FTP) is used as a delivery method for scheduled reports, allowing reports to be securely transferred to an SFTP server."
+    },
+    {
+        "question": "What options are provided for setting date parameters in scheduled reports?",
+        "answer": "Date parameters can be set as fixed dates or dynamically calculated dates, with options to adjust for past or future dates using an offset."
+    },
+    {
+        "question": "How does one manage executed scheduled reports in OPERA Cloud?",
+        "answer": "Executed scheduled reports are managed by viewing them under the Manage Scheduled Reports section, where they can be previewed, downloaded, or deleted."
+    },
+    {
+        "question": "Describe the process for editing scheduled reports in OPERA Cloud.",
+        "answer": "Editing a scheduled report involves selecting the report from the managed schedule, modifying its configuration or parameters, and saving the changes."
+    },
+    {
+        "question": "What are the key steps in deleting a scheduled report in OPERA Cloud? ",
+        "answer": "To delete a scheduled report, select the report, use the actions menu to choose delete, and confirm the deletion."
+    },
+    {
+        "question": "How is the recurrence pattern set for scheduled reports in OPERA Cloud?",
+        "answer": "The recurrence pattern for scheduled reports can be set based on specific intervals and frequencies, with options to choose how often the report should run, such as daily, weekly, or monthly."
+    },
+    {
+        "question": "What functionality does the OPERA Cloud provide for configuring business events?",
+        "answer": "Configuring business events in OPERA Cloud involves setting up and managing external systems, channel configurations, and interfacing with credit card terminals and other devices."
+    },
+    {
+        "question": "What is involved in configuring external systems in OPERA Cloud? ",
+        "answer": "Configuring external systems includes setting up connections for business events, channel controls, property interfaces, and configuring delivery management systems."
+    }
+]
